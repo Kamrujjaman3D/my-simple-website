@@ -1,6 +1,10 @@
 div{
     background-color: tomato;
     padding: 20px;
+    margin-bottom: 20px;
+}
+h3 > .heading2{
+    color: aqua;
 }
 h3{
     color: #fff;
